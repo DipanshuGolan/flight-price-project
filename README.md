@@ -28,4 +28,4 @@ pip install -r requirements.txt
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+![1234567](https://user-images.githubusercontent.com/72138009/134038810-44632c95-96b2-4d00-9cbf-8962d4a1b780.png)
